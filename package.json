@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "@sanity/client": "^4.0.1",
     "babel": "^6.23.0",
     "bootstrap": "^5.2.3",
     "confetti": "^1.1.5",
